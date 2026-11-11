@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+  <rect width="1200" height="750" fill="#ffffff"/>
+  <rect x="0" y="0" width="1200" height="72" fill="#ffffff"/>
+  <circle cx="48" cy="36" r="18" fill="#14532d"/><text x="48" y="42" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#ffffff">S</text>
+  <text x="76" y="42" font-family="Arial" font-size="22" font-weight="bold" fill="#111111">SITE EXEMPLO</text>
+  <text x="620" y="42" font-family="Arial" font-size="16" fill="#333333">Início  Menu  Reservas  Contacto</text>
+  <rect x="1020" y="18" width="140" height="36" rx="18" fill="#16a34a"/><text x="1090" y="41" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold" fill="#ffffff">Reservar</text>
+  <rect x="0" y="72" width="1200" height="340" fill="#1f2937"/>
+  <rect x="0" y="72" width="1200" height="340" fill="url(#g)"/>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14532d"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+  <text x="600" y="220" text-anchor="middle" font-family="Arial" font-size="56" font-weight="bold" fill="#ffffff">O SEU NEGÓCIO ONLINE</text>
+  <text x="600" y="268" text-anchor="middle" font-family="Arial" font-size="22" fill="#e5e7eb">Menu, reservas e contacto — tudo num só site.</text>
+  <rect x="500" y="300" width="200" height="48" rx="24" fill="#16a34a"/><text x="600" y="330" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold" fill="#ffffff">Ver menu</text>
+  <text x="600" y="480" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold" fill="#111111">Os nossos pratos</text>
+  <g font-family="Arial">
+    <rect x="80" y="510" width="320" height="180" rx="16" fill="#f3f4f6"/><rect x="100" y="530" width="280" height="80" rx="10" fill="#d1fae5"/><text x="260" y="650" text-anchor="middle" font-size="20" font-weight="bold" fill="#111111">Prato do dia</text>
+    <rect x="440" y="510" width="320" height="180" rx="16" fill="#f3f4f6"/><rect x="460" y="530" width="280" height="80" rx="10" fill="#fef3c7"/><text x="620" y="650" text-anchor="middle" font-size="20" font-weight="bold" fill="#111111">Especialidade</text>
+    <rect x="800" y="510" width="320" height="180" rx="16" fill="#f3f4f6"/><rect x="820" y="530" width="280" height="80" rx="10" fill="#dbeafe"/><text x="980" y="650" text-anchor="middle" font-size="20" font-weight="bold" fill="#111111">Bebidas</text>
+  </g>
+</svg>

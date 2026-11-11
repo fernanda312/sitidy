@@ -1,0 +1,1 @@
+var e=`fernandalany3@gmail.com`;function t(e){return!!e&&e.toLowerCase()===`fernandalany3@gmail.com`}function n(e){return e&&e.startsWith(`/`)&&!e.startsWith(`//`)?e:`/conta`}export{t as n,n as r,e as t};
